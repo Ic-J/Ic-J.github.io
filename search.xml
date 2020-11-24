@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>树</title>
+      <link href="posts/7b216a3b/"/>
+      <url>posts/7b216a3b/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法与数据结构 </category>
+          
+          <category> 树 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>栈</title>
       <link href="posts/1f4ac2fb/"/>
       <url>posts/1f4ac2fb/</url>
@@ -142,7 +163,7 @@
       <link href="posts/63392b6e/"/>
       <url>posts/63392b6e/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Amdahl定律描述了改善任何过程的一般原则"><a href="#Amdahl定律描述了改善任何过程的一般原则" class="headerlink" title="Amdahl定律描述了改善任何过程的一般原则"></a>Amdahl定律描述了改善任何过程的一般原则</h1><a id="more"></a><h2 id="该定律的主要思想"><a href="#该定律的主要思想" class="headerlink" title="该定律的主要思想"></a>该定律的主要思想</h2><p>当我们对系统的某个部分加速时，其对系统整体性能的影响取决于该部分的<strong>重要性</strong>和<strong>加速程度</strong></p><h2 id="该定律的主要观点"><a href="#该定律的主要观点" class="headerlink" title="该定律的主要观点"></a>该定律的主要观点</h2><p>要想显著加速整个系统，必须提升全系统中相当大的部分速度</p><h2 id="定律内容"><a href="#定律内容" class="headerlink" title="定律内容"></a>定律内容</h2><p>设：<br>Told：原本系统所需时间<br>Tnew：修改后系统所需时间<br>α：（改进的部分/总部分）x100％<br>k：改进的比例<br><br>那么可以得到：<br><br>Tnew=(1-α)Told+(αTold)/k=Told[(1-α)+a/k]<br></p><blockquote><p>加速比s=1/[(1-α)+α/k]=Told/Tnew</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="该定律的主要思想"><a href="#该定律的主要思想" class="headerlink" title="该定律的主要思想"></a>该定律的主要思想</h2><p>当我们对系统的某个部分加速时，其对系统整体性能的影响取决于该部分的<strong>重要性</strong>和<strong>加速程度</strong></p><h2 id="该定律的主要观点"><a href="#该定律的主要观点" class="headerlink" title="该定律的主要观点"></a>该定律的主要观点</h2><p>要想显著加速整个系统，必须提升全系统中相当大的部分速度</p><h2 id="定律内容"><a href="#定律内容" class="headerlink" title="定律内容"></a>定律内容</h2><p>设：<br>Told：原本系统所需时间<br>Tnew：修改后系统所需时间<br>α：（改进的部分/总部分）x100％<br>k：改进的比例<br><br>那么可以得到：<br><br>Tnew=(1-α)Told+(αTold)/k=Told[(1-α)+a/k]<br></p><blockquote><p>加速比s=1/[(1-α)+α/k]=Told/Tnew</p></blockquote>]]></content>
       
       
       <categories>
